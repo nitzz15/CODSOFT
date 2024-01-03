@@ -1,4 +1,4 @@
-package codeSoftAssignments;
+package codSoftAssignments;
 
 import java.util.Scanner;
 
